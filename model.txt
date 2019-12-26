@@ -1,0 +1,15 @@
+Master Database
+1: Users (Admins);
+2. Companies
+
+User (hasMany) Companies
+Company (hasMany) Users
+
+- User can create a company; add more admins to it and they will be saved in Master Database.
+- User can add auditors to the Company. When a company is created, we need to create the corresponding database for that company. And save the database config along.
+
+
+- Different roles of a user in a company - (admin, auditor, viewer)
+- ADMIN -> Has access to all the data of the company. Can access other types of users including the other admins of his/her company.
+- AUDITOR -> Can only collect data for the company selected. Can play with their profile.
+- VIEWER -> Can view the data in the application. Will usually be associated with only one company.

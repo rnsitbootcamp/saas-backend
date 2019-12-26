@@ -1,0 +1,26 @@
+{
+    "Jamaica": {
+        "Norman Manley Airport - Landside": [
+            {
+                "channel": "Restaurant",
+                "name": "Island Grills",
+                "sub_channel": "Default",
+                "gps": {
+                    "latitude": 28.704060,
+                    "longitude": 77.102493
+                }
+            }
+        ],
+        "Catherine Hall": [
+            {
+                "channel": "Restaurant",
+                "name": "Island Grills",
+                "sub_channel": "Default",
+                "gps": {
+                    "latitude": 28.704060,
+                    "longitude": 77.102493
+                }
+            }
+        ]
+    }
+}

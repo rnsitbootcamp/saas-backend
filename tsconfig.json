@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ESNEXT",
+    "module": "commonjs",
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "allowSyntheticDefaultImports": true,
+    "inlineSourceMap": true,
+    "inlineSources": true,
+    "typeRoots": [
+      "node_modules/@types",
+      "./src/@types"
+    ],
+    "moduleResolution": "node"
+  }
+}

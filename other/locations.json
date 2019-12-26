@@ -1,0 +1,89 @@
+{
+    "India": {
+        "Bangalore": [
+            {
+
+                "latitude": 12.970401,
+                "longitude": 77.595370
+            },
+            {
+                "latitude": 12.970703,
+                "longitude": 77.593703
+            },
+            {
+                "latitude": 12.972208,
+                "longitude": 77.598379
+            },
+            {
+                "latitude": 12.976557,
+                "longitude": 77.599065
+            }
+        ],
+        "Chennai": [
+            {
+                "latitude": 13.082680,
+                "longitude": 80.270721
+            },
+            {
+                "latitude": 13.082421,
+                "longitude": 80.273037
+            },
+            {
+                "latitude": 13.082463,
+                "longitude": 80.267675
+            },
+            {
+                "latitude": 13.083207,
+                "longitude": 80.269253
+            },
+            {
+                "latitude": 13.083437,
+                "longitude": 80.272063
+            },
+            {
+                "latitude": 13.078400,
+                "longitude": 80.268824
+            }
+        ],
+        "cochin": [
+            {
+                "latitude": 9.931233,
+                "longitude": 76.267303
+            },
+            {
+                "latitude": 9.945317,
+                "longitude": 76.254173
+            },
+            {
+                "latitude": 9.949037,
+                "longitude": 76.278881
+            },
+            {
+                "latitude": 9.957761,
+                "longitude": 76.251359
+            },
+            {
+                "latitude": 9.966890,
+                "longitude": 76.243123
+            }
+        ],
+        "Delhi": [
+            {
+                "latitude": 28.704060,
+                "longitude": 77.102493
+            },
+            {
+                "latitude": 28.707317,
+                "longitude": 77.109360
+            },
+            {
+                "latitude": 28.707655,
+                "longitude": 77.100052
+            },
+            {
+                "latitude": 28.704494,
+                "longitude": 77.100052
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+dist
+node_modules
+.env
+sample.env
+.vscode/
+.gitlab/
+build/
+/uploads
+/docs
+/data
+*.swp
+*.save
+**/__pycache__
+**/.vscode/settings.json

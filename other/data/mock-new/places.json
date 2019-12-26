@@ -1,0 +1,346 @@
+{
+    "India": {
+        "Bangalore": [
+            {
+                "name": "Soooper - 1",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 12.970401,
+                    "longitude": 77.595370
+                }
+            },
+            {
+                "name": "Soooper - 2",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 12.970703,
+                    "longitude": 77.593703
+                }
+            },
+            {
+                "name": "Soooper - 3",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 12.972208,
+                    "longitude": 77.598379
+                }
+            },
+            {
+                "name": "Soooper - 4",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 12.976557,
+                    "longitude": 77.599065
+                }
+            }
+        ],
+        "Chennai": [
+            {
+                "name": "Soooper - 5",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 13.082680,
+                    "longitude": 80.270721
+                }
+            },
+            {
+                "name": "Soooper - 6",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 13.082421,
+                    "longitude": 80.273037
+                }
+            },
+            {
+                "name": "Soooper - 7",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 13.082463,
+                    "longitude": 80.267675
+                }
+            },
+            {
+                "name": "Soooper - 8",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 13.083207,
+                    "longitude": 80.269253
+                }
+            },
+            {
+                "name": "Soooper - 9",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 13.083437,
+                    "longitude": 80.272063
+                }
+            },
+            {
+                "name": "Soooper - 10",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 13.078400,
+                    "longitude": 80.268824
+                }
+            }
+        ],
+        "cochin": [
+            {
+                "name": "Soooper - 11",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 9.931233,
+                    "longitude": 76.267303
+                }
+            },
+            {
+                "name": "Soooper - 12",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 9.945317,
+                    "longitude": 76.254173
+                }
+            },
+            {
+                "name": "Soooper - 13",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 9.949037,
+                    "longitude": 76.278881
+                }
+            },
+            {
+                "name": "Soooper - 14",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 9.957761,
+                    "longitude": 76.251359
+                }
+            },
+            {
+                "name": "Soooper - 15",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 9.966890,
+                    "longitude": 76.243123
+                }
+            }
+        ],
+        "Delhi": [
+            {
+                "name": "Soooper - 16",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 28.704060,
+                    "longitude": 77.102493
+                }
+            },
+            {
+                "name": "Soooper - 17",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 28.707317,
+                    "longitude": 77.109360
+                }
+            },
+            {
+                "name": "Soooper - 18",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 28.707655,
+                    "longitude": 77.100052
+                }
+            },
+            {
+                "name": "Soooper - 19",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 28.704494,
+                    "longitude": 77.100052
+                }
+            }
+        ],
+        "Bengal": [
+            {
+                "name": "Soooper - bengal 1",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 24.382460,
+                    "longitude": 87.857620
+                }
+            },
+            {
+                "name": "Soooper - bengal 2",
+                "channel": "Home Market Traditional",
+                "sub_channel": "Bakeries",
+                "gps": {
+                    "latitude": 24.427585,
+                    "longitude": 87.958339
+                }
+            },
+            {
+                "name": "Soooper - bengal 3",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 24.229942,
+                    "longitude": 88.006329
+                }
+            },
+            {
+                "name": "Soooper - bengal 4",
+                "channel": "Home Market Traditional",
+                "sub_channel": "Bakeries",
+                "gps": {
+                    "latitude": 24.435155,
+                    "longitude": 87.341951
+                }
+            }
+        ],
+        "Noida": [
+            {
+                "name": "Soooper - noida 1",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 28.970401,
+                    "longitude": 77.395370
+                }
+            },
+            {
+                "name": "Soooper - noida 2",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 28.970703,
+                    "longitude": 77.393703
+                }
+            },
+            {
+                "name": "Soooper -  noida3",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 28.972208,
+                    "longitude": 77.398379
+                }
+            },
+            {
+                "name": "Soooper - noida 4",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 28.976557,
+                    "longitude": 77.399065
+                }
+            }
+        ]
+    },
+    "Pakistan": {
+        "Lahore": [
+            {
+                "name": "Soooper - pak - 1",
+                "channel": "Home Market Traditional",
+                "sub_channel": "Bakeries",
+                "gps": {
+                    "latitude": 31.520370,
+                    "longitude": 74.357996
+                }
+            },
+            {
+                "name": "Soooper - pak - 2",
+                "channel": "Home Market Traditional",
+                "sub_channel": "Bakeries",
+                "gps": {
+                    "latitude": 31.516920,
+                    "longitude": 74.357996
+                }
+            },
+            {
+                "name": "Soooper - pak - 3",
+                "channel": "Home Market Traditional",
+                "sub_channel": "Bakeries",
+                "gps": {
+                    "latitude": 31.535649,
+                    "longitude": 74.319904
+                }
+            }
+        ],
+        "Islamabad": [
+            {
+                "name": "Soooper - isl - 1",
+                "channel": "Home Market Traditional",
+                "sub_channel": "Bakeries",
+                "gps": {
+                    "latitude": 33.520370,
+                    "longitude": 74.357996
+                }
+            },
+            {
+                "name": "Soooper - isl - 2",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 33.516920,
+                    "longitude": 74.357996
+                }
+            },
+            {
+                "name": "Soooper - isl - 3",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 33.535649,
+                    "longitude": 74.319904
+                }
+            },
+            {
+                "name": "Soooper - isl - 5",
+                "channel": "Home Market Traditional",
+                "sub_channel": "Bakeries",
+                "gps": {
+                    "latitude": 33.520370,
+                    "longitude": 75.357996
+                }
+            },
+            {
+                "name": "Soooper - isl - 6",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 33.516920,
+                    "longitude": 75.357996
+                }
+            },
+            {
+                "name": "Soooper - isl - 7",
+                "channel": "On Premise",
+                "sub_channel": "Cafeterias / Casual Dining",
+                "gps": {
+                    "latitude": 33.535649,
+                    "longitude": 75.319904
+                }
+            }
+        ]
+    }
+}

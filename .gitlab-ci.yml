@@ -1,0 +1,19 @@
+stages:
+  - test
+  - deploy
+
+test:
+  stage: test
+  script:
+    - npm ci
+    - npm run test
+  tags:
+      - backend
+
+deploy:
+  stage: deploy
+  script: bash other/ci/deploy.sh
+  tags:
+    - backend
+  only:
+    - tags
