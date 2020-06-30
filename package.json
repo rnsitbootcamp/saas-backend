@@ -34,7 +34,7 @@
     "ejs": "^2.6.1",
     "expo-server-sdk": "^3.1.0",
     "express": "^4.16.4",
-    "express-jwt": "^5.3.1",
+    "express-jwt": "^6.0.0",
     "express-pino-logger": "^4.0.0",
     "express-useragent": "^1.0.12",
     "express-validator": "^5.3.1",
