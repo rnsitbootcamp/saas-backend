@@ -59,7 +59,7 @@
     "request": "^2.88.0",
     "rollbar": "^2.5.1",
     "signale": "^1.3.0",
-    "validator": "^10.10.0",
+    "validator": "^13.7.0",
     "xlsx-stream-reader": "^1.0.9"
   },
   "devDependencies": {
