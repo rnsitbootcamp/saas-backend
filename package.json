@@ -50,7 +50,7 @@
     "multer-s3": "^2.9.0",
     "node-xlsx": "^0.12.1",
     "nodemailer": "^5.0.1",
-    "otp-generator": "^1.1.0",
+    "otp-generator": "^3.0.0",
     "passport": "^0.4.0",
     "passport-local": "^1.0.0",
     "pino": "^5.11.1",
